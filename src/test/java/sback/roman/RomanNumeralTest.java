@@ -10,7 +10,7 @@ public class RomanNumeralTest {
     public void singleNumber() {
         RomanNumeral roman = new RomanNumeral();
         int result = roman.convert("I");
-        Assertions.assertEquals(2, result);
+        Assertions.assertEquals(1, result);
     }
 
     @Test
