@@ -29,3 +29,6 @@ target/
 .project
 .classpath
 **/htmlcov/*
+*.prefs
+*.pyc
+.coverage
